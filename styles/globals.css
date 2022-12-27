@@ -105,3 +105,13 @@ a {
     color-scheme: dark;
   }
 }
+.mainman { 
+  margin: auto;
+  height: 500px;
+  width: 235px;
+  text-align: center;
+  padding-top: 25em;
+}
+
+
+
